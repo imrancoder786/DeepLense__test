@@ -79,6 +79,12 @@ Two state-of-the-art models were explored:
 
 ---
 
+###  Classification Results
+![Classification Results](comman_test/outputs/score_result.png)
+
+###  Training History (Classification)
+![Training History](comman_test/outputs/tranning_history.png)
+
 ---
 
 ## Task VI.A: Super-Resolution on Simulated Data
@@ -122,8 +128,12 @@ Two state-of-the-art models were explored:
 
 ---
 
-### Key Insight
-Swin2SR achieved **high-quality reconstruction**, preserving fine lensing structures and producing sharp Einstein rings.
+### Training History (Task VI.A)
+![Training History](project_task/task_1/outputs/tranning_history.png)
+
+### Sample Output (Task VI.A)
+![Sample Output](project_task/task_1/outputs/sample_output.png)
+
 
 ---
 
@@ -175,29 +185,14 @@ Swin2SR achieved **high-quality reconstruction**, preserving fine lensing struct
 
 ---
 
-### Key Insight
 
-EDSR significantly outperformed bicubic interpolation, demonstrating strong ability to recover structural details from real telescope data.
+### Training History (Task VI.B)
+![Training History](project_task/task_2/ouputs/Tranning_Historys.png) 
 
----
-
-## Outputs
-
-- `sample_visualizations.png` → Before vs After SR results  
-- `Tranning_Historys.png` → Training loss and metrics  
-
----
-
-## Key Learnings
-
-- Transformer models (Swin2SR) excel in **simulated SR tasks**
-- CNN-based models (EDSR) are better for **limited real-world data**
-- Data augmentation is crucial for generalization
-- Scheduler improves model stability and convergence
+###  Super-Resolution Visualization (Task VI.B)
+![SR Visualization](project_task/task_2/ouputs/sample_visualizations.png)
 
 ---
 
 ## Author
-
 **Imrankhan**  
----
