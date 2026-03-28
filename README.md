@@ -3,6 +3,9 @@
 This repository contains my implementation of the **DeepLense GSoC 2026 evaluation tasks**, including both **classification** and **image super-resolution** problems on gravitational lensing datasets.
 
 ---
+### Trained models can be found at:  [Google Drive - Model Checkpoints](https://drive.google.com/drive/folders/1nTOxxWE1ZFNiCWoay157EovEnC6cX2L_?usp=sharing)  
+
+---
 
 ##  Project Structure
 ```bash
