@@ -1,4 +1,4 @@
-## Task VI.B: Super-Resolution on Real Telescope Data
+## Super-Resolution on Real Telescope Data
 
 ### Dataset
 - **300 real image pairs**
@@ -47,10 +47,7 @@
 ---
 
 
-### Training History (Task VI.B)
-![Training History](project_task/task_2/ouputs/Tranning_Historys.png) 
-
-###  Super-Resolution Visualization (Task VI.B)
-![SR Visualization](project_task/task_2/ouputs/sample_visualizations.png)
+###  Super-Resolution Visualization 
+![SR Visualization](ouputs/sample_visualizations.png)
 
 ---
